@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+font-family: "Crete Round", serif;
+}
+
+.image{
+    background-color: palevioletred;
+    margin:25px;
+    padding: 10px;
+    border: solid black 5px;
+    
+    
+
+    
+    
+}
+.image__title {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    
+
+
+
+}
+.sorted__line{
+    text-align: center;
+    padding: 10px;
+    
+    
+
+}
+.image__container{
+    background-color: palevioletred;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 15px;
+
+}
+.image__container1{
+    width: 15%;
+    margin: 10px;
+}
+.image__container1  img{
+    width: 100%;
+    border: solid black 2px;
+    height: 100%;
+    
+
+}
+.image__container__1{
+    background-color: palevioletred;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+.image__container2{
+    width: 15%;
+
+}
+.image__container2  img{
+    width: 100%;
+    border: solid black 2px;
+    height: 100%;
+    
+}
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
